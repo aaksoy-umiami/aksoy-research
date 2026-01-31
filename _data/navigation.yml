@@ -9,28 +9,10 @@ main:
     url: "/publications/"
 
   - title: "Projects"
-    url: "javascript:void(0);"
-    children:
-      - title: "Tropical Cyclone DA"
-        url: "/projects/tropical-cyclone-da/"
-        
-      - title: "Radar DA"
-        url: "/projects/radar-da/"
-      
-      - title: "Parameter Estimation"
-        url: "/projects/parameter-estimation/"
-        
-      - title: "Predictability"
-        url: "/projects/predictability/"
+    url: "/projects/"
 
   - title: "Tools/Software"
-    url: "javascript:void(0);"
-    children:
-      - title: "Hurricane Data"
-        url: "/tools/hurricane-data/"
-        
-      - title: "Logistic Map Explorer"
-        url: "/tools/logistic-map/"
+    url: "/tools/"
 
   - title: "Contact"
     url: "/contact/"
