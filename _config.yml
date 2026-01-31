@@ -1,5 +1,6 @@
 # Site Settings
 title: Altug Aksoy, PhD
+locale: "en-US"
 name: "Aksoy Research" 
 description: "Atmospheric Scientist | Tropical Cyclones & Data Assimilation"
 url: "https://aksoyresearch.com" 
