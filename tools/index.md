@@ -3,6 +3,10 @@ title: "Tools & Software"
 permalink: /tools/
 layout: single
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: 0.5
+  overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
 
 I develop open-source tools and curated datasets to support the atmospheric science community.
