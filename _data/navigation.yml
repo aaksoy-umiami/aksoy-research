@@ -9,7 +9,7 @@ main:
     url: "/publications/"
 
   - title: "Projects"
-    url: "#"
+    url: "javascript:void(0);"
     children:
       - title: "Tropical Cyclone DA"
         url: "/projects/tropical-cyclone-da/"
@@ -24,7 +24,7 @@ main:
         url: "/projects/predictability/"
 
   - title: "Tools/Software"
-    url: "#"
+    url: "javascript:void(0);"
     children:
       - title: "Hurricane Data"
         url: "/tools/hurricane-data/"
