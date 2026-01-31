@@ -3,6 +3,10 @@ title: "Research Projects"
 permalink: /projects/
 layout: single
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: 0.5
+  overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
 
 My research focuses on advancing tropical cyclone prediction through data assimilation and examining the fundamental limits of atmospheric predictability.
