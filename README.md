@@ -9,7 +9,7 @@ This repository contains the source code and content for the personal academic w
 ## 🧪 Scientific Software & Tools
 If you are looking for the source code for the **Logistic Map Simulator** or other research tools, please visit the dedicated scientific repository:
 
-* [**Logistic Map Simulator Repository**](https://github.com/hailcloud-um/logistic-map/)
+* [**Logistic Map Simulator Repository**](https://github.com/hailcloud-um/logistic_map/)
 
 ## Copyright
 All original content (text, images, PDFs) is &copy; 2026 Altug Aksoy.
