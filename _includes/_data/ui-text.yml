@@ -1,6 +1,0 @@
-# Override default theme text
-en: &DEFAULT_EN
-  follow_label: "Contact/Share"
-  
-en-US:
-  <<: *DEFAULT_EN
