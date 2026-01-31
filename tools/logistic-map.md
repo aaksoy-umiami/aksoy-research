@@ -2,7 +2,7 @@
 layout: single
 title: "" # Leave empty
 author_profile: true
-permalink: /logistic-map/
+permalink: /tools/logistic-map/
 excerpt: >
   <span style="display: block; font-size: 2.5em; font-weight: bold; color: white; line-height: 1.2; margin-bottom: 10px;">Logistic Map Simulator</span>
   <span style="display: block; font-size: 1.1em; color: white; opacity: 0.9;">Exploring the Boundaries of Chaos and Predictability</span>

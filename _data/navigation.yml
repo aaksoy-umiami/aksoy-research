@@ -1,9 +1,34 @@
 main:
   - title: "Home"
-    url: /
-  - title: "Curriculum Vitae"
-    url: /cv/
+    url: "/"
+  
+  - title: "CV"
+    url: "/cv/"
+
   - title: "Publications"
-    url: /publications/
-  - title: "Logistic Map"
-    url: /logistic-map/
+    url: "/publications/"
+
+  - title: "Projects"
+    children:
+      - title: "Tropical Cyclone DA"
+        url: "/projects/tropical-cyclone-da/"
+        
+      - title: "Radar DA"
+        url: "/projects/radar-da/"
+      
+      - title: "Parameter Estimation"
+        url: "/projects/parameter-estimation/"
+        
+      - title: "Predictability"
+        url: "/projects/predictability/"
+
+  - title: "Tools/Software"
+    children:
+      - title: "Hurricane Data"
+        url: "/tools/hurricane-data/"
+        
+      - title: "Logistic Map Explorer"
+        url: "/tools/logistic-map/"
+
+  - title: "Contact"
+    url: "/contact/"
