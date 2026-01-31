@@ -17,4 +17,4 @@ Welcome to my research portal. I am an **Atmospheric Scientist** specializing in
 
 My work focuses on enhancing the predictability of extreme weather systems through high-resolution data integration and the study of non-linear dynamical systems.
 
-[View Full CV](/cv/){: .btn .btn--primary}  [See Publications](/publications/){: .btn .btn--light-outline}
+Feel free to navigate the site using the top menu. For a detailed history of my research and academic background, please refer to my [Curriculum Vitae](/cv/) or my [Publications](/publications/).
