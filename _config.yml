@@ -6,6 +6,11 @@ description: "Atmospheric Scientist | Tropical Cyclones & Data Assimilation"
 url: "https://aksoyresearch.com"
 baseurl: ""
 
+# Footer Settings (MOVED HERE TO FORCE IT TO WORK)
+footer:
+  links: []
+  copyright: "&copy; 2026 Altug Aksoy. Powered by Jekyll."
+
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "air"
 
@@ -46,11 +51,6 @@ author:
     - label: "Share via Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:?subject=Chaos and Predictability Research&body=Check out this interactive research on the Logistic Map: https://aksoyresearch.com/logistic-map/"
-
-# Footer Settings
-footer:
-  links: []
-  copyright: "&copy; 2026 Altug Aksoy. Powered by Jekyll."
 
 # Plugins
 plugins:
