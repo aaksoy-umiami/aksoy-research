@@ -4,7 +4,7 @@ title: "" # Leave empty so we can use the custom excerpt below
 author_profile: true
 permalink: /tools/logistic-map/
 excerpt: >
-  <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Logistic Map Explorer</span>
+  <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Tools > Logistic Map Explorer</span>
 header:
   overlay_color: "#000"
   overlay_filter: 0.1
