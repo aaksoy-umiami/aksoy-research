@@ -15,6 +15,9 @@ atom_feed:
 
 # Enable site search
 search: true
+search_provider: lunr
+lunr:
+  search_within_pages: true
 
 # Author Sidebar
 author:
