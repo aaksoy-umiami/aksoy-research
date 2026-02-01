@@ -1,16 +1,27 @@
 ---
-title: "Predictability & Dynamics"
-permalink: /projects/predictability/
 layout: single
-classes: wide
-toc: true
-toc_label: "Research Overview"
+title: "" # Leave empty
 author_profile: true
+permalink: /projects/predictability/
+toc: true
+toc_sticky: true
+toc_label: "Page Contents"
+excerpt: >
+  <div style="text-align: center; max-width: 90%; margin: 0 auto;">
+    <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">
+      <span style="opacity: 0.7; font-size: 0.8em;">Projects &rsaquo;</span> Predictability
+    </span>
+  </div>
 header:
   overlay_color: "#000"
-  overlay_filter: 0.5
+  overlay_filter: 0.1
   overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
+
+<div class="notice--info">
+  <strong>Status: Ongoing Project</strong><br>
+  The first phase of this project focused on the logistic map's predictability properties and is completed. Please refer to the specific details below.
+</div>
 
 ## Overview
 While Data Assimilation focuses on optimizing the *current* state of the atmosphere, **Predictability** research asks a more fundamental question: *Regardless of how good our initial data is, what is the theoretical limit of our ability to forecast the future?*
@@ -46,3 +57,6 @@ To demonstrate these theoretical concepts, I developed the **Logistic Map Explor
     </li>
   </ul>
 </div>
+
+---
+**[← Back to Projects](/projects/)** |  [Go to Home](/)
