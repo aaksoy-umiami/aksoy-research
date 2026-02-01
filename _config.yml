@@ -56,22 +56,32 @@ author:
 
 # ... (Main menu items above remain unchanged) ...
 
+atom_feed:
+  hide: true
+
 footer:
   links:
-    - title: "Contact"
+    - label: "Contact"
+      icon: "fas fa-fw fa-envelope"
       url: "/contact/"
-    
-    - title: "CIMAS"
-      url: "https://cimas.rsmas.miami.edu/"
-    
-    - title: "Rosenstiel School"
-      url: "https://earth.miami.edu/"
-    
-    - title: "Hurricane Research Division"
-      url: "https://www.aoml.noaa.gov/hrd/"
       
-    - title: "NOAA / AOML"
+    - label: "CIMAS"
+      icon: "fas fa-fw fa-university"
+      url: "https://cimas.rsmas.miami.edu/"
+
+    - label: "Rosenstiel School"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://earth.miami.edu/"
+
+    - label: "Hurricane Research Division"
+      icon: "fas fa-fw fa-wind"
+      url: "https://www.aoml.noaa.gov/hrd/"
+
+    - label: "NOAA / AOML"
+      icon: "fas fa-fw fa-globe"
       url: "https://www.aoml.noaa.gov/"
+      
+  copyright: "&copy; 2026 Altug Aksoy. Powered by Jekyll."
 
 # Plugins
 plugins:
