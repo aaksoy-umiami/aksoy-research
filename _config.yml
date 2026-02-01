@@ -1,10 +1,10 @@
 # Site Settings
 title: Altug Aksoy, PhD
 locale: "en-US"
-name: "Aksoy Research" 
+name: "Aksoy Research"
 description: "Atmospheric Scientist | Tropical Cyclones & Data Assimilation"
-url: "https://aksoyresearch.com" 
-baseurl: ""               
+url: "https://aksoyresearch.com"
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "air"
@@ -47,11 +47,10 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:?subject=Chaos and Predictability Research&body=Check out this interactive research on the Logistic Map: https://aksoyresearch.com/logistic-map/"
 
-
 # Footer Settings
 footer:
-  links: []  # This empty list removes the "Contact" and "Feed" links
-  copyright: "&copy; 2026 Altug Aksoy. Powered by <a href='https://jekyllrb.com' rel='nofollow'>Jekyll</a> &amp; <a href='https://mademistakes.com/work/minimal-mistakes-jekyll-theme/' rel='nofollow'>Minimal Mistakes</a>."
+  links: []
+  copyright: "© 2026 Altug Aksoy. Powered by Jekyll."
 
 # Plugins required by Minimal Mistakes
 plugins:
