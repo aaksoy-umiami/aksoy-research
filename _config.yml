@@ -28,7 +28,7 @@ author:
     
     # --- Separator & Share Section ---
     - label: "separator-line"
-      url: "separator-line" # Matching the URL to the label makes the CSS selector very stable
+      url: "separator-line"
     - label: "SHARE THIS RESEARCH"
       url: "#"
     - label: "Share on LinkedIn"
@@ -50,9 +50,9 @@ author:
 # Footer Settings
 footer:
   links: []
-  copyright: "© 2026 Altug Aksoy. Powered by Jekyll."
+  copyright: "&copy; 2026 Altug Aksoy. Powered by Jekyll."
 
-# Plugins required by Minimal Mistakes
+# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
