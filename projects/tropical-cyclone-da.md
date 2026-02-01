@@ -4,6 +4,7 @@ title: "" # Leave empty so we can use the custom excerpt below
 author_profile: true
 permalink: /projects/tropical-cyclone-da/
 toc: true
+toc_sticky: true
 toc_label: "Page Contents"
 excerpt: >
   <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Projects > Tropical Cyclone Data Assimilation</span>
