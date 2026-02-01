@@ -9,6 +9,13 @@ baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "air"
 
+# Disable RSS Feed icon
+atom_feed:
+  hide: true
+
+# Enable site search
+search: true
+
 # Author Sidebar
 author:
   name: "Altug Aksoy"
@@ -46,6 +53,25 @@ author:
     - label: "Share via Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:?subject=Chaos and Predictability Research&body=Check out this interactive research on the Logistic Map: https://aksoyresearch.com/logistic-map/"
+
+# ... (Main menu items above remain unchanged) ...
+
+footer:
+  links:
+    - title: "Contact"
+      url: "/contact/"
+    
+    - title: "CIMAS"
+      url: "https://cimas.rsmas.miami.edu/"
+    
+    - title: "Rosenstiel School"
+      url: "https://earth.miami.edu/"
+    
+    - title: "Hurricane Research Division"
+      url: "https://www.aoml.noaa.gov/hrd/"
+      
+    - title: "NOAA / AOML"
+      url: "https://www.aoml.noaa.gov/"
 
 # Plugins
 plugins:
