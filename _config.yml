@@ -51,3 +51,8 @@ author:
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+# Footer Settings
+footer:
+  links: []  # This empty list removes the "Contact" and "Feed" links
+  copyright: "&copy; 2026 Altug Aksoy. Powered by <a href='https://jekyllrb.com' rel='nofollow'>Jekyll</a> &amp; <a href='https://mademistakes.com/work/minimal-mistakes-jekyll-theme/' rel='nofollow'>Minimal Mistakes</a>."
