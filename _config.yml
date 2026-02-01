@@ -6,11 +6,6 @@ description: "Atmospheric Scientist | Tropical Cyclones & Data Assimilation"
 url: "https://aksoyresearch.com"
 baseurl: ""
 
-# Footer Settings (MOVED HERE TO FORCE IT TO WORK)
-footer:
-  links: []
-  copyright: "&copy; 2026 Altug Aksoy. Powered by Jekyll."
-
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "air"
 
