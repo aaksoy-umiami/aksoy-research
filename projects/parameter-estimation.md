@@ -43,7 +43,8 @@ I was invited to author the definitive entry on "Parameter Estimation" for the *
 * **Aksoy, A. (2025).** Parameter Estimation. In *Encyclopedia of Atmospheric Sciences* (3rd ed.). (Eds. W. A. Robinson & P. Yang). Academic Press. [Link to Publisher](https://www.sciencedirect.com/referencework/9780123822253/encyclopedia-of-atmospheric-sciences)
 * **Aksoy, A. (2015).** Parameter Estimation. In *Encyclopedia of Atmospheric Sciences* (2nd ed., Vol. 4, pp. 181–186). (Eds. G. R. North, J. Pyle, & F. Zhang). Academic Press.
 
----
-**[← Back to Projects](/projects/)** |  [Go to Home](/)
 ## Related Applications
 * [Predictability](/projects/predictability/): Exploring how parameter uncertainty impacts the intrinsic predictability of chaotic systems.
+
+---
+**[← Back to Projects](/projects/)** |  [Go to Home](/)
