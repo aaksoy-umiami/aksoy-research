@@ -3,11 +3,12 @@ layout: single
 title: "" # Leave empty so we can use the custom excerpt below
 author_profile: true
 permalink: /cv/
-toc: true
-toc_sticky: true
-toc_label: "Page Contents"
 excerpt: >
-  <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Curriculum Vitae</span>
+  <div style="text-align: center; max-width: 90%; margin: 0 auto;">
+    <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">
+      Curriculum Vitae
+    </span>
+  </div>
 header:
   overlay_color: "#000"
   overlay_filter: 0.1
@@ -60,9 +61,6 @@ header:
 * **Certificate of Appreciation**, AMS Monthly Weather Review (2022)
 * **Group Achievement Award**, NASA Genesis and Rapid Intensification Processes (2011)
 * **Editor’s Award**, AMS Monthly Weather Review (2011)
-
----
-### [View Full List of Publications](/publications/)
 
 ---
 **[← Back to Home](/)**
