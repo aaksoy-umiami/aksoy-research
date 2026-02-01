@@ -1,8 +1,18 @@
 ---
-title: "Contact Information"
-permalink: /contact/
 layout: single
+title: "" # Leave empty so we can use the custom excerpt below
 author_profile: true
+permalink: /contact/
+excerpt: >
+  <div style="text-align: center; max-width: 90%; margin: 0 auto;">
+    <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">
+      Contact
+    </span>
+  </div>
+header:
+  overlay_color: "#000"
+  overlay_filter: 0.1
+  overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
 
 ## Affiliations
@@ -25,3 +35,6 @@ Miami, FL 33149
 * [ResearchGate](https://www.researchgate.net/profile/Altug-Aksoy)
 * [ORCID](https://orcid.org/0000-0002-2335-7710)
 * [GitHub (hailcloud-um)](https://github.com/hailcloud-um)
+
+---
+**[← Back to Home](/)**
