@@ -11,6 +11,11 @@ header:
   overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
 
+<div class="notice--info">
+  <strong>Status: Fully Deployed</strong><br>
+  This visualization tool is fully deployed on Streamlit. I'm open to expanding it according to community input.
+</div>
+
 ### Interactive Logistic Map Simulator: Exploring the Boundaries of Chaos and Predictability
 
 This tool allows you to explore the transitions from order to chaos in the logistic map equation:
