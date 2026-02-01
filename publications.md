@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 toc: true
+toc_sticky: true
+toc_label: "Page Contents"
 header:
   overlay_color: "#000"
   overlay_filter: 0.2
@@ -77,4 +79,4 @@ header:
 * **Aksoy, A.**, F. Zhang, J. W. Nielsen-Gammon, and C. C. Epifanio, 2005: Ensemble-based data assimilation for thermally forced circulations. *Journal of Geophysical Research*, **110**, D16105.
 
 ---
-[← Back to Aksoy Research Home](/)
+[← Back to Home](/)
