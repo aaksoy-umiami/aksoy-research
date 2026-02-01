@@ -22,8 +22,8 @@ Collaborative work on assimilating high-resolution radar observations for convec
 ## [Parameter Estimation](/projects/parameter-estimation/)
 Techniques for simultaneously estimating atmospheric states and model parameters to reduce error.
 
----
-**[← Back to Home](/)**
-
 ## [Predictability & Dynamics](/projects/predictability/)
 Theoretical work on error growth, chaos, and the limits of prediction using the Logistic Map.
+
+---
+**[← Back to Home](/)**
