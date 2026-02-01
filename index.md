@@ -3,10 +3,11 @@ layout: single
 title: ""  # Leave empty so it doesn't conflict
 author_profile: true
 permalink: /
-# We inject the Title and Subtitle into the excerpt using HTML spans
 excerpt: >
-  <span style="display: block; font-size: 2.5em; font-weight: bold; color: white; line-height: 1.2; margin-bottom: 10px;">Altug Aksoy's Research Main Page</span>
-  <span style="display: block; font-size: 1.1em; color: white; opacity: 0.9;">Atmospheric Science, Tropical Cyclones, Data Assimilation, and Predictability</span>
+  <div style="text-align: center; max-width: 90%; margin: 0 auto;">
+    <span style="display: block; font-size: 2.5em; font-weight: bold; color: white; line-height: 1.2; margin-bottom: 10px;">Altug Aksoy's Research Main Page</span>
+    <span style="display: block; font-size: 1.1em; color: white; opacity: 0.9;">Atmospheric Science, Tropical Cyclones, Data Assimilation, and Predictability</span>
+  </div>
 header:
   overlay_color: "#000"
   overlay_filter: 0.1
