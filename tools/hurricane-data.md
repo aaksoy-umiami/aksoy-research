@@ -1,14 +1,16 @@
 ---
-title: "Hurricane Observation Datasets"
-permalink: /tools/hurricane-data/
+layout: single
+title: "" # Leave empty so we can use the custom excerpt below
 layout: single
 classes: wide
 author_profile: true
 toc: true
 toc_label: "Project Overview"
+excerpt: >
+  <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Hurricane Observations Datasets</span>
 header:
   overlay_color: "#000"
-  overlay_filter: 0.5
+  overlay_filter: 0.1
   overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
 
@@ -41,5 +43,7 @@ We are building a robust processing pipeline to standardize this data:
 * **Code Repository:** Scripts for decoding and standardizing raw flight data will be released on GitHub.
 * **Data Access:** The curated dataset will be hosted on NOAA/NCEI repositories with public access.
 
----
 *For inquiries regarding collaboration or early access to data samples, please [contact me](/contact/).*
+
+---
+**[← Back to Tools & Software](/tools/)** |  [Go to Home](/)
