@@ -23,7 +23,7 @@ author:
   bio: "Specializing in Tropical Cyclones and Data Assimilation at CIMAS/University of Miami."
   location: "Miami, FL"
   links:
-  - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/altugaksoy"
     - label: "Google Scholar"
