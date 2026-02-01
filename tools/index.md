@@ -11,7 +11,7 @@ header:
   overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
 
-I develop open-source tools and curated datasets to support the atmospheric science community.
+As part of my research, I develop open-source tools and curated datasets to support the atmospheric science community.
 
 ## [Hurricane Observation Datasets](/tools/hurricane-data/)
 **Status: Active Development**
