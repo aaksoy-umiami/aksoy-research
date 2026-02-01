@@ -5,6 +5,7 @@ permalink: /tools/hurricane-data/
 layout: single
 author_profile: true
 toc: true
+toc_sticky: true
 toc_label: "Page Contents"
 excerpt: >
   <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Tools > Hurricane Observations Datasets</span>
