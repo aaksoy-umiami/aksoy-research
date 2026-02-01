@@ -1,16 +1,27 @@
 ---
-title: "Radar Data Assimilation"
-permalink: /projects/radar-da/
 layout: single
-classes: wide
-toc: true
-toc_label: "Research Overview"
+title: "" # Leave empty
 author_profile: true
+permalink: /projects/radar-da/
+toc: true
+toc_sticky: true
+toc_label: "Page Contents"
+excerpt: >
+  <div style="text-align: center; max-width: 90%; margin: 0 auto;">
+    <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">
+      <span style="opacity: 0.7; font-size: 0.8em;">Projects &rsaquo;</span> Radar Data Assimilation
+    </span>
+  </div>
 header:
   overlay_color: "#000"
-  overlay_filter: 0.5
+  overlay_filter: 0.1
   overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
+
+<div class="notice--info">
+  <strong>Status: Completed Project</strong><br>
+  This work was part of my postdoctoral research and is now completed. Please refer to the specific details below.
+</div>
 
 ## Overview
 This research focuses on the capabilities of the Ensemble Kalman Filter (EnKF) for assimilating high-resolution radar observations at convective scales.
@@ -25,3 +36,6 @@ In collaboration with Chris Snyder and David Dowell, I conducted a comprehensive
 
 ## Related Research
 * [Tropical Cyclone Data Assimilation](/projects/tropical-cyclone-da/): Applying these radar assimilation techniques to the specific challenges of the hurricane inner core.
+
+---
+**[← Back to Projects](/projects/)** |  [Go to Home](/)
