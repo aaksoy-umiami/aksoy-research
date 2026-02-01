@@ -1,16 +1,20 @@
 ---
-title: "Tropical Cyclone Data Assimilation"
-permalink: /projects/tropical-cyclone-da/
 layout: single
-classes: wide
-toc: true
-toc_label: "Research Areas"
+title: "" # Leave empty so we can use the custom excerpt below
 author_profile: true
+permalink: /projects/tropical-cyclone-da/
+excerpt: >
+  <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Projects > Tropical Cyclone Data Assimilation</span>
 header:
   overlay_color: "#000"
-  overlay_filter: 0.5
+  overlay_filter: 0.1
   overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
+
+<div class="notice--info">
+  <strong>Status: Completed and Active Projects</strong><br>
+  This is a collection of completed and ongoing projects. Please refer to the specific details below.
+</div>
 
 ## Overview
 Since 2008, my primary research focus has been on tropical cyclone (TC) data assimilation. My work spans the development of the HEDAS system, conducting observing system experiments (OSEs) with cutting-edge platforms, and creating specialized algorithms for vortex initialization.
@@ -49,3 +53,6 @@ Invited reviews and broad assessments of the state of the art in tropical cyclon
 * **Wick, G. A. et al. (2020).** NOAA’s Sensing Hazards with Operational Unmanned Technology (SHOUT) Experiment. *Bull. Amer. Meteor. Soc.* [doi:10.1175/BAMS-D-18-0257.1](https://doi.org/10.1175/BAMS-D-18-0257.1)
 * **Cione, J. J. et al. (2020).** Eye of the Storm: Observing Hurricanes with a Small Unmanned Aircraft System. *Bull. Amer. Meteor. Soc.* [doi:10.1175/BAMS-D-19-0169.1](https://doi.org/10.1175/BAMS-D-19-0169.1)
 * **Rogers, R. F. et al. (2013).** NOAA’s Hurricane Intensity Forecasting Experiment: A Progress Report. *Bull. Amer. Meteor. Soc.* [doi:10.1175/BAMS-D-12-00089.1](https://doi.org/10.1175/BAMS-D-12-00089.1)
+
+---
+**[← Back to Projects](/projects/)** |  [Go to Home](/)
