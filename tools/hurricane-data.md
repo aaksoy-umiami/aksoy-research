@@ -5,7 +5,7 @@ layout: single
 classes: wide
 author_profile: true
 toc: true
-toc_label: "Project Overview"
+toc_label: "Page Contents"
 excerpt: >
   <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Hurricane Observations Datasets</span>
 header:
