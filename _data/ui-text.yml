@@ -1,6 +1,6 @@
 # Override default theme text
 en: &DEFAULT_EN
-  follow_label: "Contact & Bio"
+  follow_label: ""
   
 en-US:
   <<: *DEFAULT_EN
