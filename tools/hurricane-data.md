@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "" # Leave empty so we can use the custom excerpt below
+permalink: /tools/hurricane-data/
 layout: single
 classes: wide
 author_profile: true
