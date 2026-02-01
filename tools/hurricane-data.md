@@ -1,14 +1,17 @@
 ---
 layout: single
-title: "" # Leave empty so we can use the custom excerpt below
-permalink: /tools/hurricane-data/
-layout: single
+title: "" # Leave empty
 author_profile: true
+permalink: /tools/hurricane-data/
 toc: true
 toc_sticky: true
 toc_label: "Page Contents"
 excerpt: >
-  <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Tools > Hurricane Observations Datasets</span>
+  <div style="text-align: center; max-width: 90%; margin: 0 auto;">
+    <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">
+      <span style="opacity: 0.7; font-size: 0.8em;">Tools &rsaquo;</span> Hurricane Observations Datasets
+    </span>
+  </div>
 header:
   overlay_color: "#000"
   overlay_filter: 0.1
