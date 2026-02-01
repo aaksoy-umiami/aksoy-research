@@ -1,11 +1,13 @@
 ---
 layout: single
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "" # Leave empty so we can use the custom excerpt below
 author_profile: true
+permalink: /cv/
+excerpt: >
+  <span style="display: block; font-size: 2.0em; font-weight: bold; color: white; line-height: 1.2;">Curriculum Vitae</span>
 header:
   overlay_color: "#000"
-  overlay_filter: 0.5
+  overlay_filter: 0.1
   overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
 
@@ -58,4 +60,6 @@ header:
 
 ---
 ### [View Full List of Publications](/publications/)
-[← Back to Aksoy Research Home](/)
+
+---
+**[← Back to Home](/)**
