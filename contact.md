@@ -29,7 +29,7 @@ Miami, FL 33149
 ## Email
 * **Academic Inquiries Only:** [aaksoy@miami.edu](mailto:aaksoy@miami.edu)
 * **Government-Related Inquiries:** [altug.aksoy@noaa.gov](mailto:altug.aksoy@noaa.gov)
-* **All Other Personal Inquiries:** [contact@aksoyresearch.com](mailto:contact@aksoyresearch.com)
+* **All Other Inquiries:** [contact@aksoyresearch.com](mailto:contact@aksoyresearch.com)
 
 ## Professional Profiles
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=UmBrsMEAAAAJ&view_op=list_works)
