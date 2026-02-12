@@ -16,7 +16,7 @@ header:
 ---
 
 ## Affiliations
-I hold a joint appointment with the University of Miami and NOAA.
+While my primary affiliation is as a Scientist with the University of Miami, I also have a secondary affiliation with NOAA/AOML's Hurricane Research Division.
 
 **University of Miami / Cooperative Institute for Marine & Atmospheric Studies (CIMAS)**
 4600 Rickenbacker Causeway
