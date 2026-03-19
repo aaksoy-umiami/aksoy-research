@@ -35,7 +35,7 @@ Miami, FL 33149
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=UmBrsMEAAAAJ&view_op=list_works)
 * [ResearchGate](https://www.researchgate.net/profile/Altug-Aksoy)
 * [ORCID](https://orcid.org/0000-0002-2335-7710)
-* [GitHub (hailcloud-um)](https://github.com/hailcloud-um)
+* [GitHub (aaksoy-umiami)](https://github.com/aaksoy-umiami)
 
 ---
 **[← Back to Home](/)**
