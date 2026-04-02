@@ -18,7 +18,7 @@ header:
   overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/assets/images/header-bg.jpg
 ---
 
-<a href="/assets/Aksoy_CV_Jan2026.pdf" class="btn btn--primary btn--large"><i class="fas fa-file-pdf"></i> Download Full CV (PDF)</a>
+<a href="/assets/Aksoy_CV_Jan2026.pdf" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--large"><i class="fas fa-file-pdf"></i> Download Full CV (PDF)</a>
 
 ## Education
 

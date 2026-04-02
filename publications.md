@@ -20,27 +20,27 @@ header:
 
 ## Book Chapters
 
-* **Aksoy, A.** and D. Wu, 2024: Parameter Estimation. *Encyclopedia of Atmospheric Sciences*, 3rd edition. W. A. Robinson, Ping Yang, Eds., Elsevier. [[Link](https://doi.org/10.1016/B978-0-323-96026-7.00040-0)]
+* **Aksoy, A.** and D. Wu, 2024: Parameter Estimation. *Encyclopedia of Atmospheric Sciences*, 3rd edition. W. A. Robinson, Ping Yang, Eds., Elsevier. [[Link](https://doi.org/10.1016/B978-0-323-96026-7.00040-0){:target="_blank"}]
 
 ---
 
 ## Refereed Journal Articles
 
 ### 2024
-* **Aksoy, A.**, 2024: A Monte Carlo approach to understanding the impacts of initial-condition uncertainty, model uncertainty, and simulation variability on the predictability of chaotic systems: Perspectives from the one-dimensional logistic map. *Chaos*, **34**, 011102. [[DOI](https://doi.org/10.1063/5.0181705)]
+* **Aksoy, A.**, 2024: A Monte Carlo approach to understanding the impacts of initial-condition uncertainty, model uncertainty, and simulation variability on the predictability of chaotic systems: Perspectives from the one-dimensional logistic map. *Chaos*, **34**, 011102. [[DOI](https://doi.org/10.1063/5.0181705){:target="_blank"}]
 
 ### 2023
-* Sellwood, K. J., J. A. Sippel, and **A. Aksoy**, 2023: Assimilation of Coyote Small Uncrewed Aircraft System Observations in Hurricane Maria (2017) using Operational HWRF. *Weather and Forecasting*, **38**, 901–919. [[DOI](https://doi.org/10.1175/WAF-D-22-0214.1)]
+* Sellwood, K. J., J. A. Sippel, and **A. Aksoy**, 2023: Assimilation of Coyote Small Uncrewed Aircraft System Observations in Hurricane Maria (2017) using Operational HWRF. *Weather and Forecasting*, **38**, 901–919. [[DOI](https://doi.org/10.1175/WAF-D-22-0214.1){:target="_blank"}]
 
 ### 2022
-* **Aksoy, A.**, J. J. Cione, B. A. Dahl, and P. D. Reasor, 2022: Tropical cyclone data assimilation with Coyote Uncrewed Aircraft System observations, very frequent cycling, and a new online quality control technique. *Monthly Weather Review*, **150**, 797-820. [[DOI](https://doi.org/10.1175/MWR-D-21-0124.1)]
-* Christophersen, H., J. Sippel, **A. Aksoy**, and N. L. Baker, 2022: Recent advancements for tropical cyclone data assimilation. *Annals of the New York Academy of Sciences*, 1–19. [[DOI](https://doi.org/10.1111/nyas.14873)]
-* Zawislak, J., R. F. Rogers, S. D. Aberson, G. J. Alaka, G. Alvey, **A. Aksoy**, et al., 2022: Accomplishments of NOAA’S airborne hurricane field program and a broader future approach to forecast improvement. *Bulletin of the American Meteorological Society*, **103**, E311-338. [[DOI](https://doi.org/10.1175/BAMS-D-20-0174.1)]
+* **Aksoy, A.**, J. J. Cione, B. A. Dahl, and P. D. Reasor, 2022: Tropical cyclone data assimilation with Coyote Uncrewed Aircraft System observations, very frequent cycling, and a new online quality control technique. *Monthly Weather Review*, **150**, 797-820. [[DOI](https://doi.org/10.1175/MWR-D-21-0124.1){:target="_blank"}]
+* Christophersen, H., J. Sippel, **A. Aksoy**, and N. L. Baker, 2022: Recent advancements for tropical cyclone data assimilation. *Annals of the New York Academy of Sciences*, 1–19. [[DOI](https://doi.org/10.1111/nyas.14873){:target="_blank"}]
+* Zawislak, J., R. F. Rogers, S. D. Aberson, G. J. Alaka, G. Alvey, **A. Aksoy**, et al., 2022: Accomplishments of NOAA’S airborne hurricane field program and a broader future approach to forecast improvement. *Bulletin of the American Meteorological Society*, **103**, E311-338. [[DOI](https://doi.org/10.1175/BAMS-D-20-0174.1){:target="_blank"}]
 
 ### 2020
-* Schultz, D. M., **A. Aksoy**, J. Anderson, et al., 2020: Data availability principles and practice. *Monthly Weather Review*, **148**, 4701-4702. [[DOI](https://doi.org/10.1175/MWR-D-20-0323.1)]
-* Wick, G. A., J. P. Dunion, P. G. Black, J. R. Walker, R. D. Torn, A. C. Kren, **A. Aksoy**, et al., 2020: NOAA’S Sensing Hazards with Operational Unmanned Technology (SHOUT) Experiment: Observations and forecast impacts. *Bulletin of the American Meteorological Society*, **101**, E968–E987. [[DOI](https://doi.org/10.1175/BAMS-D-18-0257.1)]
-* Cione, J. J., G. H. Bryan, R. Dobosy, J. A. Zhang, G. de Boer, **A. Aksoy**, et al., 2020: Eye of the storm: Observing hurricanes with a Small Unmanned Aircraft System. *Bulletin of the American Meteorological Society*, **101**, E186–E205. [[DOI](https://doi.org/10.1175/BAMS-D-19-0169.1)]
+* Schultz, D. M., **A. Aksoy**, J. Anderson, et al., 2020: Data availability principles and practice. *Monthly Weather Review*, **148**, 4701-4702. [[DOI](https://doi.org/10.1175/MWR-D-20-0323.1){:target="_blank"}]
+* Wick, G. A., J. P. Dunion, P. G. Black, J. R. Walker, R. D. Torn, A. C. Kren, **A. Aksoy**, et al., 2020: NOAA’S Sensing Hazards with Operational Unmanned Technology (SHOUT) Experiment: Observations and forecast impacts. *Bulletin of the American Meteorological Society*, **101**, E968–E987. [[DOI](https://doi.org/10.1175/BAMS-D-18-0257.1){:target="_blank"}]
+* Cione, J. J., G. H. Bryan, R. Dobosy, J. A. Zhang, G. de Boer, **A. Aksoy**, et al., 2020: Eye of the storm: Observing hurricanes with a Small Unmanned Aircraft System. *Bulletin of the American Meteorological Society*, **101**, E186–E205. [[DOI](https://doi.org/10.1175/BAMS-D-19-0169.1){:target="_blank"}]
 
 ### 2018
 * Steward, J., J. E Roman, A. L. Daviña, and **A. Aksoy**, 2018: Parallel direct solution of the covariance-localized ensemble square root Kalman filter equations with matrix functions. *Monthly Weather Review*, **146**, 2819-2836.
@@ -49,7 +49,7 @@ header:
 
 ### 2017
 * Steward, J., **A. Aksoy**, and Z. Haddad, 2017: Parallel direct solution of the ensemble square-Root Kalman filter equations with observation principal components. *Journal of Atmospheric and Oceanic Technology*, **34**, 1867-1884.
-* **Aksoy, A.**, J. A. Zhang, B. W. Klotz, E. W. Uhlhorn, and J. J. Cione, 2017: Axisymmetric initialization of the atmosphere and ocean for idealized coupled hurricane simulations. *Journal of Advances in Modeling Earth Systems*. [[DOI](https://doi.org/10.1002/2017MS000977)]
+* **Aksoy, A.**, J. A. Zhang, B. W. Klotz, E. W. Uhlhorn, and J. J. Cione, 2017: Axisymmetric initialization of the atmosphere and ocean for idealized coupled hurricane simulations. *Journal of Advances in Modeling Earth Systems*. [[DOI](https://doi.org/10.1002/2017MS000977){:target="_blank"}]
 * Christophersen, H., **A. Aksoy**, J. Dunion, and K. Sellwood, 2017: The impact of NASA Global Hawk unmanned aircraft dropwindsonde observations on tropical cyclone track, intensity, and structure: Case studies. *Monthly Weather Review*, **145**, 1817-1830.
 
 ### 2015

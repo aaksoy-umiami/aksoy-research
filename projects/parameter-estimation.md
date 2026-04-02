@@ -33,14 +33,14 @@ This work demonstrated that the **Ensemble Kalman Filter (EnKF)** could successf
 ### 1. Simultaneous State & Parameter Estimation
 My early work pioneered the use of EnKF for simultaneous state and parameter estimation in mesoscale models. We demonstrated that uncertain physical parameters (such as surface drag or vertical mixing coefficients) could be retrieved from standard observations, leading to more balanced and accurate analyses.
 
-* **Aksoy, A., F. Zhang, and J. W. Nielsen-Gammon (2006).** Ensemble-based simultaneous state and parameter estimation with MM5. *Geophys. Res. Lett.* [doi:10.1029/2006GL026186](https://doi.org/10.1029/2006GL026186)
-* **Aksoy, A., F. Zhang, and J. W. Nielsen-Gammon (2006).** Ensemble-based simultaneous state and parameter estimation in a two-dimensional sea-breeze model. *Mon. Wea. Rev.* [doi:10.1175/MWR3224.1](https://doi.org/10.1175/MWR3224.1)
-* **Aksoy et al. (2005).** Ensemble-based data assimilation for thermally forced circulations. *J. Geophys. Res. Atmos.* [doi:10.1029/2004JD005718](https://doi.org/10.1029/2004JD005718)
+* **Aksoy, A., F. Zhang, and J. W. Nielsen-Gammon (2006).** Ensemble-based simultaneous state and parameter estimation with MM5. *Geophys. Res. Lett.* [doi:10.1029/2006GL026186](https://doi.org/10.1029/2006GL026186){:target="_blank"}
+* **Aksoy, A., F. Zhang, and J. W. Nielsen-Gammon (2006).** Ensemble-based simultaneous state and parameter estimation in a two-dimensional sea-breeze model. *Mon. Wea. Rev.* [doi:10.1175/MWR3224.1](https://doi.org/10.1175/MWR3224.1){:target="_blank"}
+* **Aksoy et al. (2005).** Ensemble-based data assimilation for thermally forced circulations. *J. Geophys. Res. Atmos.* [doi:10.1029/2004JD005718](https://doi.org/10.1029/2004JD005718){:target="_blank"}
 
 ### 2. Encyclopedia Entries
 I was invited to author the definitive entry on "Parameter Estimation" for the *Encyclopedia of Atmospheric Sciences*. I have maintained this entry across multiple editions, synthesizing the state-of-the-art in parameter estimation theory and its practical application in mitigating model error.
 
-* **Aksoy, A. (2025).** Parameter Estimation. In *Encyclopedia of Atmospheric Sciences* (3rd ed.). (Eds. W. A. Robinson & P. Yang). Academic Press. [Link to Publisher](https://www.sciencedirect.com/referencework/9780123822253/encyclopedia-of-atmospheric-sciences)
+* **Aksoy, A. (2025).** Parameter Estimation. In *Encyclopedia of Atmospheric Sciences* (3rd ed.). (Eds. W. A. Robinson & P. Yang). Academic Press. [Link to Publisher](https://www.sciencedirect.com/referencework/9780123822253/encyclopedia-of-atmospheric-sciences){:target="_blank"}
 * **Aksoy, A. (2015).** Parameter Estimation. In *Encyclopedia of Atmospheric Sciences* (2nd ed., Vol. 4, pp. 181–186). (Eds. G. R. North, J. Pyle, & F. Zhang). Academic Press.
 
 ## Related Applications

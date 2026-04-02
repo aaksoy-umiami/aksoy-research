@@ -32,16 +32,16 @@ $$x_{i+1} = r x_i (1 - x_i)$$
 </div>
 
 ### 🚀 Access the Simulator
-* **[Launch the Live App](https://logistic-map-v1.streamlit.app/)**: Run the interactive ensemble simulations directly in your web browser.
+* **[Launch the Live App](https://logistic-map-v1.streamlit.app/){:target="_blank"}**: Run the interactive ensemble simulations directly in your web browser.
 
 ### 💻 Source Code & Citation
 The complete, modular source code (v1.0.0) for this application is open-source. If you use this tool in your research, please cite both the paper and the software archive:
 
-* **Software Archive (Zenodo):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19354735.svg)](https://doi.org/10.5281/zenodo.19354735)
-* **GitHub Repository:** [aaksoy-umiami/logistic_map](https://github.com/aaksoy-umiami/logistic_map)
+* **Software Archive (Zenodo):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19354735.svg)](https://doi.org/10.5281/zenodo.19354735){:target="_blank"}
+* **GitHub Repository:** [aaksoy-umiami/logistic_map](https://github.com/aaksoy-umiami/logistic_map){:target="_blank"}
 
 ### 📄 Research Publication
-* **Aksoy, A. (2024).** *A Monte Carlo approach to understanding the impacts of initial-condition uncertainty, model uncertainty, and simulation variability on the predictability of chaotic systems.* Chaos, 34, 011102. **[Read the Paper (DOI)](https://doi.org/10.1063/5.0181705)**
+* **Aksoy, A. (2024).** *A Monte Carlo approach to understanding the impacts of initial-condition uncertainty, model uncertainty, and simulation variability on the predictability of chaotic systems.* Chaos, 34, 011102. **[Read the Paper (DOI)](https://doi.org/10.1063/5.0181705){:target="_blank"}**
 
 ---
 **[← Back to Tools & Software](/tools/)** |  [Go to Home](/)

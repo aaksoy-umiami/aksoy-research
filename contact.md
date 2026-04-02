@@ -32,10 +32,10 @@ Miami, FL 33149
 * **All Other Inquiries:** [contact@aksoyresearch.com](mailto:contact@aksoyresearch.com)
 
 ## Professional Profiles
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=UmBrsMEAAAAJ&view_op=list_works)
-* [ResearchGate](https://www.researchgate.net/profile/Altug-Aksoy)
-* [ORCID](https://orcid.org/0000-0002-2335-7710)
-* [GitHub (aaksoy-umiami)](https://github.com/aaksoy-umiami)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=UmBrsMEAAAAJ&view_op=list_works){:target="_blank"}
+* [ResearchGate](https://www.researchgate.net/profile/Altug-Aksoy){:target="_blank"}
+* [ORCID](https://orcid.org/0000-0002-2335-7710){:target="_blank"}
+* [GitHub (aaksoy-umiami)](https://github.com/aaksoy-umiami){:target="_blank"}
 
 ---
 **[← Back to Home](/)**

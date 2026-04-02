@@ -35,12 +35,12 @@ My recent work challenges standard definitions of predictability by utilizing th
 
 This research investigates how error growth rates (Lyapunov exponents) interact with initial condition uncertainty to determine the time horizon beyond which a forecast provides no more value than a climatological guess.
 
-* **Aksoy, A. (2024).** The logistic map: A possible definition of the limit of predictability? *Chaos*, 34, 013106. [doi:10.1063/5.0181705](https://doi.org/10.1063/5.0181705)
+* **Aksoy, A. (2024).** The logistic map: A possible definition of the limit of predictability? *Chaos*, 34, 013106. [doi:10.1063/5.0181705](https://doi.org/10.1063/5.0181705){:target="_blank"}
 
 ### 2. Ensemble Spread & Error Growth
 In the context of tropical cyclones, understanding predictability requires analyzing how initial errors grow over time. Through my work with **Ensemble Kalman Filters (EnKF)**, I examine how ensemble spread correlates with forecast error, serving as a proxy for the flow-dependent predictability of the atmosphere.
 
-* **Aksoy, A. et al. (2022).** Tropical cyclone data assimilation with Coyote uncrewed aircraft system observations, very frequent cycling, and a new online quality control technique. *Mon. Wea. Rev.* [doi:10.1175/MWR-D-21-0124.1](https://doi.org/10.1175/MWR-D-21-0124.1)
+* **Aksoy, A. et al. (2022).** Tropical cyclone data assimilation with Coyote uncrewed aircraft system observations, very frequent cycling, and a new online quality control technique. *Mon. Wea. Rev.* [doi:10.1175/MWR-D-21-0124.1](https://doi.org/10.1175/MWR-D-21-0124.1){:target="_blank"}
 
 ## Interactive Tools
 To demonstrate these theoretical concepts, I developed the **Logistic Map Explorer**, an interactive web application that allows users to visualize the "butterfly effect" and error growth in real-time.
@@ -51,11 +51,11 @@ To demonstrate these theoretical concepts, I developed the **Logistic Map Explor
     <li style="margin-bottom: 15px;">
       Run the model in your browser to explore bifurcation diagrams: 
       <br><br>
-      <a href="https://logistic-map-v1.streamlit.app/" class="btn btn--primary btn--sm" style="margin-left: 10px; vertical-align: middle;">Launch Streamlit App <i class="fas fa-external-link-alt"></i></a>
-      <a href="https://github.com/aaksoy-umiami/logistic_map" class="btn btn--inverse btn--sm" style="margin-left: 10px; vertical-align: middle;"><i class="fab fa-github"></i> View Source Code</a>
+      <a href="https://logistic-map-v1.streamlit.app/" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--sm" style="margin-left: 10px; vertical-align: middle;">Launch Streamlit App <i class="fas fa-external-link-alt"></i></a>
+      <a href="https://github.com/aaksoy-umiami/logistic_map" target="_blank" rel="noopener noreferrer" class="btn btn--inverse btn--sm" style="margin-left: 10px; vertical-align: middle;"><i class="fab fa-github"></i> View Source Code</a>
     </li>
     <li>
-      <em>Want to understand the math?</em> Visit the <a href="/tools/logistic-map/">Tool Documentation & Tutorial</a> page for a detailed breakdown of the physics and source code.
+      <em>Want to understand the math?</em> Visit the <a href="/tools/logistic-map/" target="_blank" rel="noopener noreferrer">Tool Documentation & Tutorial</a> page for a detailed breakdown of the physics and source code.
     </li>
   </ul>
 </div>
