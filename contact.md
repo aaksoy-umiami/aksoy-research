@@ -16,7 +16,7 @@ header:
 ---
 
 ## Affiliations
-I hold a joint appointment with the University of Miami and NOAA.
+While my primary affiliation is as a Scientist with the University of Miami, I also have a secondary affiliation with NOAA/AOML's Hurricane Research Division.
 
 **University of Miami / Cooperative Institute for Marine & Atmospheric Studies (CIMAS)**
 4600 Rickenbacker Causeway
@@ -27,14 +27,15 @@ Miami, FL 33149
 Miami, FL 33149
 
 ## Email
-* **Academic:** [aaksoy@miami.edu](mailto:aaksoy@miami.edu)
-* **Government:** [altug.aksoy@noaa.gov](mailto:altug.aksoy@noaa.gov)
+* **Academic Inquiries Only:** [aaksoy@miami.edu](mailto:aaksoy@miami.edu)
+* **Government-Related Inquiries:** [altug.aksoy@noaa.gov](mailto:altug.aksoy@noaa.gov)
+* **All Other Inquiries:** [contact@aksoyresearch.com](mailto:contact@aksoyresearch.com)
 
 ## Professional Profiles
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=UmBrsMEAAAAJ&view_op=list_works)
 * [ResearchGate](https://www.researchgate.net/profile/Altug-Aksoy)
 * [ORCID](https://orcid.org/0000-0002-2335-7710)
-* [GitHub (hailcloud-um)](https://github.com/hailcloud-um)
+* [GitHub (aaksoy-umiami)](https://github.com/aaksoy-umiami)
 
 ---
 **[← Back to Home](/)**
