@@ -30,9 +30,9 @@ In collaboration with Chris Snyder and David Dowell, I conducted a comprehensive
 
 ## Key Publications
 
-* **Aksoy, A., D. C. Dowell, and C. Snyder (2010).** A multicase comparative assessment of the ensemble Kalman filter for assimilation of radar observations. Part II: Short-range ensemble forecasts. *Mon. Wea. Rev.* [doi:10.1175/2009MWR3086.1](https://doi.org/10.1175/2009MWR3086.1)
+* **Aksoy, A., D. C. Dowell, and C. Snyder (2010).** A multicase comparative assessment of the ensemble Kalman filter for assimilation of radar observations. Part II: Short-range ensemble forecasts. *Mon. Wea. Rev.* [doi:10.1175/2009MWR3086.1](https://doi.org/10.1175/2009MWR3086.1){:target="_blank"}
 
-* **Aksoy, A., D. C. Dowell, and C. Snyder (2009).** A multicase comparative assessment of the ensemble Kalman filter for assimilation of radar observations. Part I: Storm-scale analyses. *Mon. Wea. Rev.* [doi:10.1175/2009MWR2691.1](https://doi.org/10.1175/2009MWR2691.1)
+* **Aksoy, A., D. C. Dowell, and C. Snyder (2009).** A multicase comparative assessment of the ensemble Kalman filter for assimilation of radar observations. Part I: Storm-scale analyses. *Mon. Wea. Rev.* [doi:10.1175/2009MWR2691.1](https://doi.org/10.1175/2009MWR2691.1){:target="_blank"}
 
 ## Related Research
 * [Tropical Cyclone Data Assimilation](/projects/tropical-cyclone-da/): Applying these radar assimilation techniques to the specific challenges of the hurricane inner core.
