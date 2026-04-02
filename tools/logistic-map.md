@@ -31,9 +31,16 @@ This tool allows you to explore the transitions from order to chaos in the logis
 $$x_{i+1} = r x_i (1 - x_i)$$
 </div>
 
-* **[Launch the Live App](https://logistic-map.streamlit.app/)**: You can play around with the full app following this link.
+### 🚀 Access the Simulator
+* **[Launch the Live App](https://logistic-map-v1.streamlit.app/)**: Run the interactive ensemble simulations directly in your web browser.
 
-* **[Research Paper](https://doi.org/10.1063/5.0181705)**: You can read the full scientific details in my *Chaos* publication.
+### 💻 Source Code & Citation
+The complete, modular source code (v1.0.0) for this application is open-source. If you use this tool in your research, please cite both the paper and the software archive:
+
+* **Software Archive (Zenodo):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) * **GitHub Repository:** [aaksoy-umiami/logistic_map](https://github.com/aaksoy-umiami/logistic_map)
+
+### 📄 Research Publication
+* **Aksoy, A. (2024).** *A Monte Carlo approach to understanding the impacts of initial-condition uncertainty, model uncertainty, and simulation variability on the predictability of chaotic systems.* Chaos, 34, 011102. **[Read the Paper (DOI)](https://doi.org/10.1063/5.0181705)**
 
 ---
 **[← Back to Tools & Software](/tools/)** |  [Go to Home](/)

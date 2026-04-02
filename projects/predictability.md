@@ -50,7 +50,9 @@ To demonstrate these theoretical concepts, I developed the **Logistic Map Explor
   <ul>
     <li style="margin-bottom: 15px;">
       Run the model in your browser to explore bifurcation diagrams: 
-      <a href="#" class="btn btn--primary btn--sm" style="margin-left: 10px; vertical-align: middle;">Launch Streamlit App <i class="fas fa-external-link-alt"></i></a>
+      <br><br>
+      <a href="https://logistic-map-v1.streamlit.app/" class="btn btn--primary btn--sm" style="margin-left: 10px; vertical-align: middle;">Launch Streamlit App <i class="fas fa-external-link-alt"></i></a>
+      <a href="https://github.com/aaksoy-umiami/logistic_map" class="btn btn--inverse btn--sm" style="margin-left: 10px; vertical-align: middle;"><i class="fab fa-github"></i> View Source Code</a>
     </li>
     <li>
       <em>Want to understand the math?</em> Visit the <a href="/tools/logistic-map/">Tool Documentation & Tutorial</a> page for a detailed breakdown of the physics and source code.
