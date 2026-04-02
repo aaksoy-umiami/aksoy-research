@@ -60,11 +60,6 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:?subject=Chaos and Predictability Research&body=Check out this interactive research on the Logistic Map: https://aksoyresearch.com/logistic-map/"
 
-# ... (Main menu items above remain unchanged) ...
-
-atom_feed:
-  hide: true
-
 footer:
   links:
     - label: "Contact"
@@ -93,3 +88,4 @@ footer:
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-sitemap
