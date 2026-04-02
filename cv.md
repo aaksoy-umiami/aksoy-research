@@ -51,6 +51,27 @@ header:
 * Simultaneous state and parameter estimation
 * Chaos theory and predictability
 
+## Research Products & Software Development
+
+* **Hurricane Ensemble Data Assimilation System (HEDAS)** (2008–Present)
+    * *NOAA/AOML*
+    * A state-of-the-art, high-performance computing system to incorporate, in real time, high-resolution aircraft observations of tropical cyclones into numerical weather prediction models. It improves forecast skill and provides a complete picture of 3D tropical cyclone structure.
+* **NOAA/AOML/HRD HRDOBS Dataset** (2024–Present)
+    * A comprehensive dataset that includes all tropical cyclone inner-core observations in a uniform format with appropriate error estimations, bringing together observations from various platforms and disparate online locations.
+* **Logistic Map Simulator (Open-Source Software)** (2025–Present)
+    * An interactive Python/Streamlit application designed to visualize the limits of predictability in chaotic systems. It serves as the digital companion to the research published in *Chaos* (2024), allowing users to run real-time ensemble simulations and visualize error growth.
+    * **Links:** [Launch App](https://logistic-map-v1.streamlit.app/){:target="_blank"} | [View Source Code](https://github.com/aaksoy-umiami/logistic_map){:target="_blank"}
+* **Online Quality Control Technique for Ensemble-Based Data Assimilation Applications** (2022–Present)
+    * An advanced technique based on observation innovations normalized by total uncertainty. Combined with a nonparametric outlier identification mechanism, it effectively identifies outlier observations in highly non-Gaussian distributions typical of the tropical cyclone inner-core region.
+* **Storm-Relative Hurricane Observation Processing Technique** (2013–Present)
+    * *NOAA/AOML*
+    * An advanced observation processing technique that accounts for storm motion within a given processing window, allowing for homogeneous distribution of observations throughout assimilation cycles. Routinely used in HEDAS.
+* **Atmospheric Parameter Estimation Pioneer**
+    * Since Ph.D. work at *Texas A&M University*, demonstrated and advocated the utilization of meteorological observations in data assimilation systems to estimate and improve key internal features of numerical weather prediction models. Author of the "Parameter Estimation" chapter in the *Encyclopedia of Atmospheric Sciences*.
+* **Idealized, Non-Linear Numerical Sea Breeze Model** (2003–2005)
+    * *Texas A&M University*
+    * Used to demonstrate the value of ensemble-based data assimilation in thermally forced circulations and later coupled with a chemical tracer model to evaluate how meteorological observations can be utilized to better model ozone transport.
+
 ## Leadership & Service
 
 * **Principal Investigator**, NOAA Hurricane Field Program (2014–Present)
