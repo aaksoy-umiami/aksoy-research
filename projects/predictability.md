@@ -51,7 +51,7 @@ To demonstrate these theoretical concepts, I developed the **Logistic Map Explor
     <li style="margin-bottom: 15px;">
       Run the model in your browser to explore bifurcation diagrams: 
       <br><br>
-      <a href="https://logistic-map-v1.streamlit.app/" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--sm" style="margin-left: 10px; vertical-align: middle;">Launch Streamlit App <i class="fas fa-external-link-alt"></i></a>
+      <a href="https://logistic-map.streamlit.app/" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--sm" style="margin-left: 10px; vertical-align: middle;">Launch Streamlit App <i class="fas fa-external-link-alt"></i></a>
       <a href="https://github.com/aaksoy-umiami/logistic_map" target="_blank" rel="noopener noreferrer" class="btn btn--inverse btn--sm" style="margin-left: 10px; vertical-align: middle;"><i class="fab fa-github"></i> View Source Code</a>
     </li>
     <li>
