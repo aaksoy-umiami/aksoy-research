@@ -32,7 +32,7 @@ $$x_{i+1} = r x_i (1 - x_i)$$
 </div>
 
 ### 🚀 Access the Simulator
-* **[Launch the Live App](https://logistic-map-v1.streamlit.app/){:target="_blank"}**: Run the interactive ensemble simulations directly in your web browser.
+* **[Launch the Live App](https://logistic-map.streamlit.app/){:target="_blank"}**: Run the interactive ensemble simulations directly in your web browser.
 
 ### 💻 Source Code & Citation
 The complete, modular source code (v1.0.0) for this application is open-source. If you use this tool in your research, please cite both the paper and the software archive:
